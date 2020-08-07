@@ -1,1 +1,1 @@
-# learning-computer-architectures-and-hpc-book
+# learning-computer-architectures-book
